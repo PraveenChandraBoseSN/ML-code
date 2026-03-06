@@ -9,3 +9,8 @@ Now I am going to see if the changes I push are really captured.
 
 
 This is to check if the local main branch is in track with the remote main branch
+
+
+
+
+I am checking this if git works without any previous knowledge in the cmd of where to push.
