@@ -14,3 +14,7 @@ This is to check if the local main branch is in track with the remote main branc
 
 
 I am checking this if git works without any previous knowledge in the cmd of where to push.
+
+
+
+Now check if pcb changes are working on pull
