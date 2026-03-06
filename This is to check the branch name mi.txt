@@ -18,3 +18,6 @@ I am checking this if git works without any previous knowledge in the cmd of whe
 
 
 Now check if pcb changes are working on pull
+
+
+Now to check it without upstream
